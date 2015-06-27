@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Engineering
-weight : 80
+weight : 70
 ---
 
 <p class="message">

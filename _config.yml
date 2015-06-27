@@ -1,5 +1,4 @@
 markdown:         redcarpet
-highlighter:         true
 
 permalink:           pretty
 relative_permalinks: true
