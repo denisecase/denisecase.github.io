@@ -1,0 +1,6 @@
+@article{pahwa2015goal,
+  title={Goal-Based Holonic Multiagent System for Operation of Power Distribution Systems},
+  author={Pahwa, Anil and DeLoach, Scott and Natarajan, Bala and Das, Sanjoy and Malekpour, Ahmad R and Alam, Shafiul and Shafiul, SM and Case, Denise M and others},
+  year={2015},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@article{case2014implementation,
+  title={Implementation of a Two-tier Double Auction for On-line Power Purchasing in the Simulation of a Distributed Intelligent Cyber-Physical System},
+  author={Case, Denise M and Faqiry, M Nazif and Majumder, Bodhisattwa P and Das, Sanjoy and DeLoach, Scott A},
+  journal={Advances in Artificial Intelligence},
+  pages={79},
+  year={2014}
+}

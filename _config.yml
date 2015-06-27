@@ -1,0 +1,24 @@
+markdown:         redcarpet
+highlighter:         true
+
+permalink:           pretty
+relative_permalinks: true
+
+title:            Denise Case
+tagline:          ''
+description:      ''
+url:              
+baseurl:          /
+port:             4000
+
+author:
+  name:           'Denise Case'
+  url:            https://www.denisecase.com
+
+paginate:         2
+
+version:          0.0.1
+
+github:
+  repo:           http://github.com/denisecase/denisecase.github.io
+  

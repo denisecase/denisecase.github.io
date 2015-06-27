@@ -1,0 +1,6 @@
+@phdthesis{case2015engineering,
+  title={Engineering Complex Systems with Multigroup Agents},
+  author={Case, Denise},
+  year={2015},
+  school={Kansas State University}
+}

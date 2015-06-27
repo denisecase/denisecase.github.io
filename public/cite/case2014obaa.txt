@@ -1,0 +1,8 @@
+@inproceedings{case2014obaa,
+  title={{OBAA++}: An {A}gent {A}rchitecture for {P}articipating in {M}ultiple {G}roups},
+  author={Case, Denise M. and DeLoach, Scott A. },
+  booktitle={Proceedings of the 13th Intl Conference on Autonomous Agents and Multiagent Systems},
+  pages={1367--1368},
+  year={2014},
+  organization={International Foundation for Autonomous Agents and Multiagent Systems}
+}

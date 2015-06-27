@@ -1,0 +1,8 @@
+@incollection{case2013applying,
+  title={Applying an O-MaSE compliant process to develop a Holonic Multiagent System for the evaluation of Intelligent Power Distribution Systems},
+  author={Case, Denise and DeLoach, Scott},
+  booktitle={Engineering Multi-Agent Systems},
+  pages={78--96},
+  year={2013},
+  publisher={Springer Berlin Heidelberg}
+}
