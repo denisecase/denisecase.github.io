@@ -7,7 +7,8 @@ title: Embedding a Calendar in a GitHub Pages Website
    Using GitHub Pages makes it easy to add a custom calendar to your website.
 </p>
 
-This website uses [GitHub Pages](https://pages.github.com/). For information on how to create a similar website, see the earlier article on [creating a GitHub Pages site]({{site.baseurl}}posts/2015-06-26-new-site.md).
+This website uses [GitHub Pages](https://pages.github.com/). For information on how to create a similar website, see the earlier article on [creating a GitHub Pages site]({{site.baseurl}}posts/2015-06-26-new-site.md). 
+The repository with the site content is available at [http://denisecase.github.io/](http://denisecase.github.io/).
 
 Follow the four steps below to add a top-level calendar page to your site.
 
@@ -20,7 +21,7 @@ Follow the four steps below to add a top-level calendar page to your site.
 
 ## 2. Grab the calendar content
 
-When viewing your calendar, access the calendar settings by clicking on the gear in the upper right. 
+From Google Calendar, access the calendar settings by clicking on the gear in the upper right. 
 
 ![]({{ site.baseurl }}public/cal/settings.png)
 
@@ -31,7 +32,7 @@ Click the link to one of the calendars to be embedded. Under the Embed this Cale
 
 ![]({{ site.baseurl }}public/cal/embed.png)
 
-Use the helper to adjust the content to show. Check all the calendars to be included. After customizing, select the HTML as indicated and copy to your clipboard (CTRL-C).
+Use the helper to adjust the content to show. Check all the calendars to be included. Update the calendar title. After customizing, select the HTML as indicated and copy to your clipboard (CTRL-C).
 
 ![]({{ site.baseurl }}public/cal/helper.png)
 
@@ -40,11 +41,9 @@ Use the helper to adjust the content to show. Check all the calendars to be incl
 Create a calendar.md file in the root folder. Add a [YAML front matter block](http://jekyllrb.com/docs/frontmatter/) with the following content - the weight is used to set the order in which the menu items will appear.  
  
 
-
 layout: page  
 title: Calendar  
 weight : 98  
-
 
 
 Paste the HTML from Step 2 at the end of the file (CTRL-V).  

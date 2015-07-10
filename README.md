@@ -1,5 +1,6 @@
 # denisecase.github.io
-Personal website content 
+
+Personal website content for [http://denisecase.github.io/](http://denisecase.github.io/).
 
 ## Setup
 
@@ -25,7 +26,7 @@ Personal website content
 
 ## Test Locally
 
-Open Git Bash window in your github.io folder: 
+Open Git Bash window in the github.io folder: 
 ```bash
 $ jekyll serve 
 ``` 
