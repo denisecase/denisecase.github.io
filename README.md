@@ -25,11 +25,11 @@ Personal website content
 
 ## Test Locally
 
-* Open Git Bash window in your github.io folder: 
+Open Git Bash window in your github.io folder: 
 ```bash
 $ jekyll serve 
 ``` 
-* Open browser to http://localhost:4000/
+Open browser to: http://localhost:4000/.
 
 
 
