@@ -10,7 +10,7 @@ weight : 40
   We offer a variety of <a href="http://www.nwmissouri.edu/mathcsis/programs/index.htm">Bachelors and Masters degrees</a> in some of the <a href="http://www.stemedcoalition.org/wp-content/uploads/2010/05/BLS-STEM-Jobs-report-spring-2014.pdf">highest demand fields</a> - <a href="https://ssb.nwmissouri.edu/pls/PRODDAD/nwcrse.P_Showschedule">click here to take a look at our courses</a>!  
     <br><br>
   <a href="http://computingcareers.acm.org/?page_id=4"><b>Top 10 Reasons to Major in Computing</b></a><br>
-   <a href="http://www.nwmissouri.edu/careerserv/HABinfo.htm"<b>Hire a Bearcat!</b></a>
+   <a href="http://www.nwmissouri.edu/careerserv/HABinfo.htm"><b>Hire a Bearcat!</b></a>
 </p>
 
 ## Teaching
