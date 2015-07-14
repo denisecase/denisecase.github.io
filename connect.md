@@ -14,6 +14,8 @@ Assistant Professor, [Northwest Missouri State University](http://www.nwmissouri
 [dcase@nwmissouri.edu](mailto:dcase@nwmissouri.edu)  
 [@professor_case](https://twitter.com/professor_case)   
 [LinkedIn](https://www.linkedin.com/in/denisecase)  
+[ResearchGate](https://www.researchgate.net/profile/Denise_Case) 
+
 
 ![On Colden Pond]({{ site.baseurl }}public/on_colden_pond.jpg)
 
