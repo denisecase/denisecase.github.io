@@ -3,7 +3,7 @@ layout: post
 title: Request for Reference
 ---
 
-On campus job openings will be posted next Monday, November 30th for three days. 
+On campus job openings will be posted Monday, November 30, 2015 for three days. 
 For those stopping by to ask if I would act as a reference:
 
 * Please send me an email with your full name and ' - Reference information' as the subject. 
