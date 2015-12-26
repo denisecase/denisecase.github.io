@@ -16,9 +16,12 @@ weight : 40
 ## Teaching
 
 *   [Northwest Missouri State University](http://www.nwmissouri.edu/)
+    *   [NW 44-460 Database Systems.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Spring 2016)
+    *   [NW 44-499 Independent Studty Computer Science.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Spring 2016)
     *   [NW 44-542 Object-Oriented Programming.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Fall 2015)
-    *   [NW 44-560 Advanced Topics in Database Systems.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Fall 2015)
-    *   [NW 44-696 Graduate Directed Project.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Fall 2015)
+    *   [NW 44-560 Advanced Topics in Database Systems.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Fall 2015, Spring 2016)
+    *   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Spring 2016)
+    *   [NW 44-696 Graduate Directed Project.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Fall 2015, Spring 2016)
     
 *   [Johnson County Community College](http://www.jccc.edu)
     *   [JCCC CS 134 - Programming Fundamentals.](ttp://catalog.jccc.edu/coursedescriptions/cs/) (Summer 2010, Fall 2010)
