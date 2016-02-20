@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MVC 6 Seed from CSV
+title: MVC6 Seed from CSV
 ---
 
 How to seed an ASP.NET 5 MVC 6 project using Entity Framework 7 from csv files.
