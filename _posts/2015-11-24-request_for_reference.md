@@ -14,7 +14,6 @@ For those stopping by to ask if I would act as a verbal reference:
 * Provide a printed copy of your FERPA form as well - either in person, or by putting a copy in my mailbox.
 * Include any other highlights, bragging rights, work and/or project experience, volunteer efforts, 
 good grades, and other information that may be helpful in the body of the email.
-
-Please include list of the current (and previous) courses you have taken with me - and make sure the appropriate academic records boxes are checked - so that I can share information about your grades and attendance when called. 
+* Please include list of the current (and previous) courses you have taken with me - and make sure the appropriate academic records boxes are checked - so that I can share information about your grades and attendance when called. 
 
 Thank you - and best wishes on your job search!
