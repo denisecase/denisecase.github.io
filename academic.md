@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic
-weight : 40
+weight : 20
 ---
 
 <p class="message">
@@ -12,6 +12,7 @@ weight : 40
   <a href="http://computingcareers.acm.org/?page_id=4"><b>Top 10 Reasons to Major in Computing</b></a><br><br>
    <a href="http://www.nwmissouri.edu/careerserv/HABinfo.htm"><b>Hire a Bearcat!</b></a><br>
 </p>
+
 
 ## Teaching
 

@@ -1,8 +1,11 @@
-markdown:         redcarpet
+# RubyGems
+gems: [jekyll-paginate, jekyll-gist]
 
-permalink:           pretty
-relative_permalinks: true
+markdown:         kramdown
+permalink:        pretty
 
+
+# Setup
 title:            Denise Case
 tagline:          ''
 description:      ''
@@ -10,14 +13,25 @@ url:
 baseurl:          /
 port:             4000
 
+
+
+
+# About/contact
 author:
   name:           'Denise Case'
   url:            https://www.denisecase.com
 
-paginate:         1
+# Custom variables
+version:          0.0.2
 
-version:          0.0.1
 
+# This website's repo
 github:
   repo:           http://github.com/denisecase/denisecase.github.io
-  
+ 
+# exclude from the build process
+exclude: 
+  - README.md
+  - .ruby-version
+  - Gemfile
+  - Gemfile.lock

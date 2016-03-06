@@ -25,7 +25,8 @@ Some key conferences related to computer science education:
   
     *   [CCSC-CP 2016](http://www.ccsc.org/centralplains/future-conference.html) 
     *   [CCSC-CP 2015](http://ccsc.org/centralplains/2015_CCSC%20program_Final_With_Room_Assignments.pdf) - [cfp](http://www.ccsc.org/centralplains/2015-CCSC-CallForPapers.pdf)
-    *   [CCSC-CP 2014] (http://www.ccsc.org/centralplains/pastconferences/2014_Conference/2014-CCSCProgramFINAL.pdf)  
+    *   [CCSC-CP 2014] (http://www.ccsc.org/centralplains/pastconferences/2014_Conference/2014-CCSCProgramFINAL.pdf)    
+    *   [Journal of Computing Sciences in Colleges (JCSC)](http://www.ccsc.org/publications/). The JCSC is a publication of CCSC, an endorsed society of ACM, the world’s largest and oldest association for computing professionals. 
  
 *   [IEEE FIE]() - Frontiers in Education, mid October, papers in Feb-Mar, [more info](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER124-PRT)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-weight : 20
+weight : 40
 ---
 
 <p class="message">

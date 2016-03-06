@@ -18,7 +18,25 @@ HTML 5 pages start with a _doctype declaration_ (so the browser knows how to int
 
 To make a very simple page, just type or copy the text below into a file and save it as _index.html_.
 
-{% gist f487610439a72a03cda9 %}
+
+
+```html
+<!DOCTYPE html>  
+<html>
+  <head> 
+     <title>My Page Title</title>
+  </head> 
+  <body> 
+      <h3>This is a third-level heading.</h3>
+      Try adding more headings 
+      or see what happens with h1 or h2 instead. 
+  </body> 
+</html>
+```
+ 
+ * gist https://gist.github.com/denisecase/f487610439a72a03cda9
+ 
+ 
  
 Open your browser. Instead of a website, enter the path to your new index.html, for example:  
 
