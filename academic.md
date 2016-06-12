@@ -37,11 +37,11 @@ weight : 20
 
 ## Publications
 
-*   [Google Scholar] (https://scholar.google.com/citations?user=CyYceikAAAAJ)
-*   [Academia.edu] (http://ksu.academia.edu/DeniseCase)
-*   [ResearchGate] (http://www.researchgate.net/profile/Denise_Case)
-*   [ResearcherID] (http://www.researcherid.com/rid/I-1466-2015)
-*   [ORCID] (http://orcid.org/0000-0001-6165-7389)
+*   [Google Scholar](https://scholar.google.com/citations?user=CyYceikAAAAJ)
+*   [Academia.edu](http://ksu.academia.edu/DeniseCase)
+*   [ResearchGate](http://www.researchgate.net/profile/Denise_Case)
+*   [ResearcherID](http://www.researcherid.com/rid/I-1466-2015)
+*   [ORCID](http://orcid.org/0000-0001-6165-7389)
 *   Denise M. Case, M. N. Faqiry, B. P. Majumder, S. Das, and Scott. A. DeLoach. "Implementation of a two-tier double auction for on-line power purchasing in the simulation of a distributed intelligent cyber-physical system". In Research in Computing Science, 2014, presented at the Mexican International Conference on Artificial Intelligence, 2014. ([bib]({{ site.baseurl }}public/cite/case2014implementation.txt))
 *   Denise M. Case. "Distributed Intelligent Systems: Agent Self Control and Consistency Management in Complex Adaptive Systems," presented at the Mexican International Conference on Artificial Intelligence, Doctoral Consortium 2014 ([bib]({{ site.baseurl }}public/cite/case2014distributed.txt)). 
 *   Denise M. Case, Scott A. DeLoach, ["OBAA++: An Agent Architecture for Participating in Multiple Groups"](http://aamas2014.lip6.fr/proceedings/aamas/p1367.pdf), 13th International Conference on Autonomous Agents and Multiagent Systems ([http://aamas2014.lip6.fr](http://aamas2014.lip6.fr/)) ([bib]({{ site.baseurl }}public/cite/case2014obaa.txt)). 
