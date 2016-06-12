@@ -72,7 +72,7 @@ Kansas State University, April 22, 2015 ([bib]({{ site.baseurl }}public/cite/cas
 ## NSF Fellowship - GK12 INSIGHT
 
 *   Curricular Unit: Enhancing Health - Sensors in Wellness, Health, and Medicine. [[PDF]({{ site.baseurl }}public/docs/HealthUnit.pdf)] [[Google Doc](https://docs.google.com/document/d/1TJeEoQRaYQ2xFPDCxJdhJnRbASrcMcUBRCK26EoicSQ/pub)]
-*   Curricular Unit: Rocket Out! Exploring Thrust, Acceleration, Velocity, and Flight Performance with Sensor. [[PDF]({{ site.baseurl }}public/docs/RocketUnit.pdf)] [[Google Doc](https://docs.google.com/document/d/1PNwke31zeNBXboUKUKaFo0-wiliwLO9eYyct8lfCdZw/pub)]
+*   Curricular Unit: Rocket Out! Exploring Thrust, Acceleration, Velocity, and Flight Performance with Sensors. [[PDF]({{ site.baseurl }}public/docs/RocketUnit.pdf)] [[Google Doc](https://docs.google.com/document/d/1PNwke31zeNBXboUKUKaFo0-wiliwLO9eYyct8lfCdZw/pub)]
 *   Curricular Unit: This Little Light of Mine: Exploring Light with Sensors and Bots. [[PDF]({{ site.baseurl }}public/docs/LightUnit.pdf)] [[Google Doc](https://docs.google.com/document/d/1jOeKGLvDXSPptcn6e-PXRppIQCLMFoP1IekbsZh_nCo/pub)]
 *   Curricular Unit: Dig it! Composting Analysis with Temperature Sensors. [[PDF]({{ site.baseurl }}public/docs/CompostingAnalysisUnit.pdf)] [[Google Doc](https://docs.google.com/document/d/1gmjvLYA-Zjqt5qA335pMD4XAQQtANon8vGJC9qzTV0Q/pub)]
 *   Activity: Assessing the Power of Exercises with Sensors. [[PDF]({{ site.baseurl }}public/docs/HealthActivity.pdf)] [[Google Doc](https://docs.google.com/document/d/1PRZL1qdwVnQDXz0PVbw6qwDkPCBY7UyyGfBAXny3mxo/pub)]
