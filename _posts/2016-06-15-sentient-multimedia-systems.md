@@ -14,7 +14,7 @@ The theme of the 2016 Distributed Multimedia Systems conference is Sentient Mult
     *   [DET 2015 (Vancouver, Canada)](http://www.ksi.edu/seke/det15cfp.html)
     *   [DET 2014 (Pittsburgh, USA)](http://www.ksi.edu/seke/det14cfp.html)
 *   International Workshop on Visual Languages and Computing (VLC) (papers: **Jun**, conf: Oct)
-    *   [VLC 2016](http://ksiresearchorg.ipage.com/seke/vlc16cfp.html)
+    *   [VLC 2016 (Salerno, Italy)](http://ksiresearchorg.ipage.com/seke/vlc16cfp.html)
     *   [VLC 2015 (Vancouver, Canada)](http://www.ksi.edu/seke/vlc15cfp.html)
     *   [VLC 2014 (Pittsburgh, USA)](http://www.ksi.edu/seke/vlc14cfp.html)
    
