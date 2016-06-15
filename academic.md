@@ -5,7 +5,7 @@ weight : 20
 ---
 
 <p class="message">
-  As an Assistant Professor at <a href="http://www.nwmissouri.edu/"> Northwest Missouri State University</a>, I teach advanced data systems, professional development, and graduate directed projects.
+  As an Assistant Professor at <a href="http://www.nwmissouri.edu/"> Northwest Missouri State University</a>, I teach advanced data systems, programming and application development, project management, and graduate directed projects.
   
   We offer a variety of <a href="http://www.nwmissouri.edu/mathcsis/programs/index.htm">Bachelors and Masters degrees</a> in some of the <a href="http://www.stemedcoalition.org/wp-content/uploads/2010/05/BLS-STEM-Jobs-report-spring-2014.pdf">highest demand fields</a> - <a href="https://ssb.nwmissouri.edu/pls/PRODDAD/nwcrse.P_Showschedule">click here to take a look at our courses</a>!  
     <br><br>
@@ -17,12 +17,14 @@ weight : 20
 ## Teaching
 
 *   [Northwest Missouri State University](http://www.nwmissouri.edu/)
-    *   [NW 44-460 Database Systems.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Spring 2016)
-    *   [NW 44-499 Independent Studty Computer Science.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Spring 2016)
-    *   [NW 44-542 Object-Oriented Programming.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Fall 2015)
-    *   [NW 44-560 Advanced Topics in Database Systems.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Fall 2015, Spring 2016)
-    *   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Spring 2016)
-    *   [NW 44-696 Graduate Directed Project.](http://www.nwmissouri.edu/mathcsis/msacs/courses.htm) (Fall 2015, Spring 2016)
+    *   [NW 44-499 Independent Studty Computer Science.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016, Spring 2016)
+    *   [NW 44-542 Object-Oriented Programming.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2015)
+    *   [NW 44-563 Developing Web Applications and Services.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016)
+    *   [NW 44-560 Advanced Topics in Database Systems.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016, Fall 2015)
+    *   [NW 44-618 Project Management in Business and Technology.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Summer 2016)
+    *   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016)
+    *   [NW 44-691 Graduate Directed Project I.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016)
+    *   [NW 44-696 Graduate Directed Project.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016, Fall 2015)
     
 *   [Johnson County Community College](http://www.jccc.edu)
     *   [JCCC CS 134 - Programming Fundamentals.](ttp://catalog.jccc.edu/coursedescriptions/cs/) (Summer 2010, Fall 2010)
@@ -30,6 +32,9 @@ weight : 20
     *   [JCCC CS 236 – Object-Oriented Programming Using C#.](http://catalog.jccc.edu/coursedescriptions/cs/)  (Spring 2012, Spring 2013)
 
 ## Curriculum Development
+
+*   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016)
+    *   Developed new course based on ASP.NET 5, MVC 6, EF 7 (now ASP.NET Core 1.0) incorporating Git and Angular 2.0.
 
 *   [JCCC CS 236 – Object-Oriented Programming Using C#.](http://catalog.jccc.edu/coursedescriptions/cs/) 
     *   Drafted course description and requirements for course approval.
