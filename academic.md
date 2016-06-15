@@ -34,7 +34,7 @@ weight : 20
 ## Curriculum Development
 
 *   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016)
-    *   Developed new course based on ASP.NET 5, MVC 6, EF 7 (now ASP.NET Core 1.0) incorporating Git and Angular 2.0.
+    *   Developed new course based on ASP.NET 5, MVC 6, EF 7 (now [ASP.NET Core 1.0](http://www.asp.net/)) incorporating [Git](https://git-scm.com/) and [Angular 2.0](https://angular.io/).
 
 *   [JCCC CS 236 – Object-Oriented Programming Using C#.](http://catalog.jccc.edu/coursedescriptions/cs/) 
     *   Drafted course description and requirements for course approval.
