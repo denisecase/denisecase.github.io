@@ -26,7 +26,9 @@ Some key conferences related to engineering multiagent systems, distributed arti
     *   [PRIMA 2015 (Oct Bertinoro, Italy)](http://apice.unibo.it/xwiki/bin/view/PRIMA2015/)
     *   [PRIMA 2014 (Dec Queenland, Australia)](http://apice.unibo.it/xwiki/bin/view/Events/Prima2014)
     *   [PRIMA 2013 (Dec Dunedin, New Zealand)](http://apice.unibo.it/xwiki/bin/view/Events/Prima2013)
-*   PAAMS: International Conference on Practical Applications of Agents and Multi-Agent Systems
-    *   [PAAMS 2014: http://www.paams.net/paams2014/](http://www.paams.net/paams2014/)
-    *   [PAAMS 2013: http://www.paams.net/paams2013/](http://www.paams.net/paams2013/)
+*   PAAMS: International Conference on Practical Applications of Agents and Multi-Agent Systems (papers: **Jan**, conf: Jun)
+    *   [PAAMS 2016 (Sevilla, Spain)](http://www.paams.net/)
+    *   [PAAMS 2015 (Salamanca, Spain)](http://www.springer.com/us/book/9783319189437)
+    *   [PAAMS 2014 (Salamanca, Spain](http://www.springer.com/us/book/9783319075501)
+    *   [PAAMS 2013 (Salamanca, Spain](http://www.springer.com/us/book/9783642380723)
 
