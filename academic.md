@@ -17,7 +17,7 @@ weight : 20
 ## Teaching
 
 *   [Northwest Missouri State University](http://www.nwmissouri.edu/)
-    *   [NW 44-499 Independent Studty Computer Science.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016, Spring 2016)
+    *   [NW 44-499 Independent Study Computer Science.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016, Spring 2016)
     *   [NW 44-542 Object-Oriented Programming.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2015)
     *   [NW 44-563 Developing Web Applications and Services.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016)
     *   [NW 44-560 Advanced Topics in Database Systems.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016, Fall 2015)
