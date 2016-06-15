@@ -16,7 +16,7 @@ Some key conferences related to engineering multiagent systems, distributed arti
     *   [EMAS 2015](http://www.di.unito.it/~baldoni/EMAS2015/)
     *   [EMAS 2014](http://emas14.wordpress.com/)
     *   [EMAS 2013](http://www.springer.com/computer/ai/book/978-3-642-45342-7)
-*   WI/IAT: IEEE/WIC/ACM International Conference on Intelligent Agent Technology
+*   WI/IAT: IEEE/WIC/ACM International Conference on Web Intelligence (and Intelligent Agent Technology)
     *   [WI 2016 (Oct Omaha, USA)](https://wibih.unomaha.edu/)
     *   [IAT 2015 (Dec Singapore)](http://wi-iat15.ntulily.org/)
     *   [IAT 2014 (Aug Warsaw, Poland)](http://wic2014.mimuw.edu.pl/iat/homepage)
