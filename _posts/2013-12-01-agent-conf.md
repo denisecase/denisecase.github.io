@@ -21,9 +21,11 @@ Some key conferences related to engineering multiagent systems, distributed arti
     *   [IAT 2015 (Dec Singapore)](http://wi-iat15.ntulily.org/)
     *   [IAT 2014 (Aug Warsaw, Poland)](http://wic2014.mimuw.edu.pl/iat/homepage)
     *   [IAT 2013 (Nov Atlanta, USA)](http://cs.gsu.edu/wic2013/iat)
-*   PRIMA: International Conference on Principles and Practice of Multi-Agent Systems
-    *   [PRIMA 2014: http://www.prima2014.org/](http://www.prima2014.org/)
-    *   [PRIMA 2013: http://www.springer.com/computer/ai/book/978-3-642-44926-0/](http://www.springer.com/computer/ai/book/978-3-642-44926-0)
+*   PRIMA: International Conference on Principles and Practice of Multi-Agent Systems (papers: **May**, conf: Aug)
+    *   [PRIMA 2016 (Aug Phuket, Thailand)](http://prima2016.di.unito.it/)
+    *   [PRIMA 2015 (Oct Bertinoro, Italy)](http://apice.unibo.it/xwiki/bin/view/PRIMA2015/)
+    *   [PRIMA 2014 (Dec Queenland, Australia)](http://apice.unibo.it/xwiki/bin/view/Events/Prima2014)
+    *   [PRIMA 2013 (Dec Dunedin, New Zealand)](http://apice.unibo.it/xwiki/bin/view/Events/Prima2013)
 *   PAAMS: International Conference on Practical Applications of Agents and Multi-Agent Systems
     *   [PAAMS 2014: http://www.paams.net/paams2014/](http://www.paams.net/paams2014/)
     *   [PAAMS 2013: http://www.paams.net/paams2013/](http://www.paams.net/paams2013/)
