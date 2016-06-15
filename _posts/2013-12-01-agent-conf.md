@@ -3,7 +3,9 @@ layout: post
 title: Agent Conferences
 ---
 
-Some key conferences related to engineering multiagent systems, distributed artificial intelligence, and complex collaborative systems. Updated June 2016.
+Some key conferences related to engineering multiagent systems, distributed artificial intelligence, and complex collaborative systems. 
+
+Updated: June 2016.
 
 *   AAMAS: International Conference on Autonomous Agents and Multiagent Systems (papers: **Nov**, conf: May)
     *   [AAMAS 2017 (São Paulo, Brazil)](http://www.aamas2017.org/)
