@@ -7,7 +7,7 @@ Looking for an easy way to manage the software on your Windows computer?  Chocol
 
 [https://chocolatey.org/](https://chocolatey.org/)
 
-You can install it from the [Chocolately](https://chocolatey.org/) website, 
+Install it from the [Chocolately](https://chocolatey.org/) website, 
 or use **WIN-X** and **A**. (Hold down the WINDOWS key and hit the "x" key at the same time to bring up a menu, 
 then hit the "a" key or click on "Windows Powershell (Admin)" option.)
 
@@ -19,7 +19,7 @@ In the administrator Powershell window, type:
 
 If it needs more software, type "Y" for yes as needed.
 
-![Installing Chocolatey](posts/2016-07-16_1426.png)
+![Installing Chocolatey](_posts/2016-07-16_1426.png)
 
 Now, you can use the **install-package** command to install desired software, for example:
 
@@ -27,7 +27,7 @@ Now, you can use the **install-package** command to install desired software, fo
 install-package firefox
 '''
 
-![Installing Firefox](posts/2016-07-16_1429.png)
+![Installing Firefox](_posts/2016-07-16_1429.png)
 
 Use it to install chrome, nodejs, notepadplusplus, jdk8, 7zip, git, groovy, gradle, python, filezilla, skype, ccleaner, dotnet5, adobereader. and others. 
 
