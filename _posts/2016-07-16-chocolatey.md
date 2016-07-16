@@ -37,4 +37,4 @@ To get a **current list of the most popular Chocolatey packages**, enter the fol
 
 See all Chocolatey commands at: [https://github.com/chocolatey/choco/wiki/CommandsReference](https://github.com/chocolatey/choco/wiki/CommandsReference).
  
- [1] Thanks to [Flueworks](https://www.reddit.com/user/Flueworks), as shared [here](https://www.reddit.com/r/AskReddit/comments/4t467w/what_is_the_first_thing_you_install_on_a_new/d5eo6i3)
+ [1] Thanks to [Flueworks](https://www.reddit.com/user/Flueworks), as shared [here](https://www.reddit.com/r/AskReddit/comments/4t467w/what_is_the_first_thing_you_install_on_a_new/d5eo6i3).
