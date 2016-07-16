@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manage Windows Software Easily with Chocolately
+title: Manage Windows Software Easily with Chocolatey
 ---
 
 Looking for an easy way to manage the software on your Windows computer?  Chocolatey makes managing Windows software easy (as easy as apt-get on Linux).
