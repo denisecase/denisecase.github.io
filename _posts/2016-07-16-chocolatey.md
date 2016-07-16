@@ -27,14 +27,14 @@ install-package firefox
 
 ![Installing Firefox]({{ site.baseurl }}public/2016-07-16_1429.png)
 
-Use it to install chrome, nodejs, notepadplusplus, jdk8, 7zip, git, groovy, gradle, python, filezilla, skype, ccleaner, dotnet5, adobereader. and others. 
+Use it to install chrome, nodejs, notepadplusplus, jdk8, 7zip, git, groovy, gradle, python, filezilla, skype, ccleaner, dotnet5, adobereader, and more. 
 
 To get a **current list of the most popular Chocolatey packages**, enter the following command[1]:
 
 ```
- find-package -provider chocolatey | select -first 30 | ogv -outputmode multiple | install-package
+find-package -provider chocolatey | select -first 30 | ogv -outputmode multiple | install-package
 ```
 
 See all Chocolatey commands at: [https://github.com/chocolatey/choco/wiki/CommandsReference](https://github.com/chocolatey/choco/wiki/CommandsReference).
  
- [1] Thanks to [Flueworks](https://www.reddit.com/user/Flueworks), as shared [here](https://www.reddit.com/r/AskReddit/comments/4t467w/what_is_the_first_thing_you_install_on_a_new/d5eo6i3).
+ [1] Thanks to [Flueworks](https://www.reddit.com/user/Flueworks) as shared [here](https://www.reddit.com/r/AskReddit/comments/4t467w/what_is_the_first_thing_you_install_on_a_new/d5eo6i3).
