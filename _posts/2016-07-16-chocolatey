@@ -19,7 +19,7 @@ In the administrator Powershell window, type:
 
 If it needs more software, type "Y" for yes as needed.
 
-![Installing Chocolatey](_posts/2016-07-16_1426.png)
+![Installing Chocolatey]({{ site.baseurl }}public/2016-07-16_1426.png)
 
 Now, you can use the **install-package** command to install desired software, for example:
 
@@ -27,7 +27,7 @@ Now, you can use the **install-package** command to install desired software, fo
 install-package firefox
 '''
 
-![Installing Firefox](_posts/2016-07-16_1429.png)
+![Installing Firefox]({{ site.baseurl }}public/2016-07-16_1429.png)
 
 Use it to install chrome, nodejs, notepadplusplus, jdk8, 7zip, git, groovy, gradle, python, filezilla, skype, ccleaner, dotnet5, adobereader. and others. 
 
