@@ -5,9 +5,7 @@ title: Manage Windows Software Easily with Chocolatey
 
 Looking for an easy way to manage the software on your Windows computer?  Chocolatey makes managing Windows software easy (as easy as apt-get on Linux).
 
-[https://chocolatey.org/](https://chocolatey.org/)
-
-Install it from the [Chocolately](https://chocolatey.org/) website, 
+Install it from the [Chocolatey](https://chocolatey.org/) website, 
 or use **WIN-X** and **A**. (Hold down the WINDOWS key and hit the "x" key at the same time to bring up a menu, 
 then hit the "a" key or click on "Windows Powershell (Admin)" option.)
 
