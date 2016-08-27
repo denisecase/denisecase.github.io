@@ -9,7 +9,7 @@ Simple HTML5 and JavaScript project to create groups of students in a course sit
 
 Try the [demo](http://denisecase.github.io/project/groupmaker/groupmaker.html).
 
-[![](http://denisecase.github.io/public/groupmaker.png)](http://denisecase.github.io/public/groupmaker.png)
+[![](http://denisecase.github.io/project/groupmaker/groupmaker.png)](http://denisecase.github.io/project/groupmaker/groupmaker.png)
 
 ## Run it locally
 
