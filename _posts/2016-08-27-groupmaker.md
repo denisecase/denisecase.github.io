@@ -5,12 +5,12 @@ title: Groupmaker
 
 Simple HTML5 and JavaScript project to create groups of students in a course site or section.  
 
-##Demo
+## Demo
 
 Try the [demo](http://denisecase.github.io/project/groupmaker/groupmaker.html).
 
 
-##Run it locally
+## Run it locally
 
 Fork this repository, or download the code as a zipfile and expand it. 
 
@@ -21,7 +21,7 @@ Enter the number of students in the section and click the button.
 The results display the corresponding IDs in random order.  Subdivide as desired. 
 
 
-##Update or modify it
+## Update or modify it
 
 Install a simple text editor, e.g., [Notepad++](http://notepad-plus-plus.org/) to modify the files. 
 
