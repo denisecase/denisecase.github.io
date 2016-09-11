@@ -20,7 +20,7 @@ HTTPS dropdown in the top right corner of the BitBucket repository.
 
 In your local copy of the M03 folder, double-click on M03.html to open it in your browser. 
 
-Review the [initial test results](http://denisecase.github.io/project/44563-M03/test/M03test.html). 
+Review the [initial test results](http://denisecase.github.io/project/44563-M03/test/M03Tests.html). 
 
 [![](http://denisecase.github.io/project/44563-M03/2016-09-11_1254.png)](http://denisecase.github.io/project/44563-M03/2016-09-11_1254.png)
 
