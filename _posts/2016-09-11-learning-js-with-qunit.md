@@ -4,7 +4,7 @@ title: Learning JavaScript with QUnit
 ---
 
 [QUnit](https://qunitjs.com/) is a JavaScript unit testing framework that makes it easy to 
-start out learning good unit testing practices while learning JavaScript.  
+start learning good unit testing practices while learning JavaScript.  
 
 ## The Assignment
 
