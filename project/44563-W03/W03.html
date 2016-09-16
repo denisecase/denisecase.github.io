@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>M03</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="W03.css">
+</head>
+
+<body>
+
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#">W03 Case</a>
+			</div>
+		</div>
+	</nav>
+
+	<div class="container">
+		<!-- Example row of columns -->
+		<div class="row">
+			<div class="col-md-12">
+				<p>This assignment introduces user interaction with JavaScript. </p>
+				<p>The code is available at <a href="https://bitbucket.org/professorcase/w03">https://bitbucket.org/professorcase/w03</a>.</p>
+				<p>Change the name appearing on the menu above from to Yourpreferredname. </p>
+
+				<p>Currently, the application gets the user's name and the size of their ranch. The app calculates square miles and estimate
+					how many sheep they can hold on their land.</p>
+
+				<p>Can you help complete the app and make it more user-friendly?</p>
+				<br>
+				<p>Click the button to get started.</p>
+				<br>
+				<!-- http://v4-alpha.getbootstrap.com/components/buttons/ -->
+				<button onclick="App.launch()" class="btn btn-lg btn-danger">Click me</button> <br/> <br/>
+			</div>
+			<div class="col-md-12">
+				<br/>
+				<p id="first"></p>
+				<p id="last"></p>
+				<p id="width"></p>
+				<p id="length"></p>
+				<p id="area"></p>
+				<p id="count"></p>
+				<br>
+				<span id="displayPlace">&nbsp;</span>
+				<div class="col-md-12">
+					<footer>
+						<p>&copy; NWMSU Web Apps Fall 2016</p>
+					</footer>
+				</div>
+			</div>
+		</div>
+		<!-- /container -->
+		<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="W03.js"></script>
+</body>
+
+</html>
