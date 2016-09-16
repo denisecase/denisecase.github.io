@@ -58,7 +58,8 @@ var App = {
     alert("You could have about " + count + " sheep.");
   },
   showExample: function () {
-    document.getElementById("displayPlace").innerHTML="";
+    document.getElementById("displayPlace").innerHTML = "";
+    document.getElementById("btnExplore").style.display = 'block' ;
     let totalCount = parseFloat(document.getElementById("count").innerHTML);
     for (var i = 0; i < totalCount; i++) {
       App.addImage(i);
@@ -72,6 +73,11 @@ var App = {
     var displayElement = document.getElementById("displayPlace");
     displayElement.appendChild(imageElement);
     document.getElementById("image" + icount).src = "59-images-of-baby-lamb-clipart-you-can-use-these-free-cliparts-for-sEfudv-clipart.jpg";
+  },
+  explore: function () {
+    alert("Would you like to learn more? \n\n Run the app in Chrome.\n\n"+ 
+    "Right-click on the page, and click Inspect. Click on the Elements tab.\n\n" +
+    "Hit CTRL-F and search for displayPlace to see the new image elements you added to the page.\n")
   }
 };
 

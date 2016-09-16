@@ -9,6 +9,7 @@ JavaScript makes it easy to build client-side apps while learning programming fu
 
 View the [assignment](http://denisecase.github.io/project/44563-W03/W03.html).
 
+[![](http://denisecase.github.io/project/44563-W03/2016-09-15_2011.png)](http://denisecase.github.io/project/44563-W03/2016-09-15_2011.png)
 
 ## Import the code
 
