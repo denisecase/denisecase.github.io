@@ -58,6 +58,7 @@ var App = {
     alert("You could have about " + count + " sheep.");
   },
   showExample: function () {
+    document.getElementById("displayPlace").innerHTML="";
     let totalCount = parseFloat(document.getElementById("count").innerHTML);
     for (var i = 0; i < totalCount; i++) {
       App.addImage(i);
