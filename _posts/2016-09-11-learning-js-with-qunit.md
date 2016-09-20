@@ -25,7 +25,7 @@ Review the [initial test results](http://denisecase.github.io/project/44563-M03/
 [![](http://denisecase.github.io/project/44563-M03/2016-09-11_1254.png)](http://denisecase.github.io/project/44563-M03/2016-09-11_1254.png)
 
 Make the changes described, adding in the two extra test cases, 
-and then write the JavaScript code to implment the new methods and make the new tests all pass successfully. 
+and then write the JavaScript code to implement the new methods and make the new tests all pass successfully. 
 
 
 ## Working with the code
