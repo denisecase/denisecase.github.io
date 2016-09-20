@@ -13,14 +13,14 @@ title: Exploring Maryville
 ## Parks & Recreation
 - [918 North Country Club Road](https://www.google.com/maps/place/918+N+Country+Club+Rd,+Maryville,+MO+64468/@40.3535708,-94.8946944,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac558bec1727d:0xaff323a6f15560bb!8m2!3d40.3535708!4d-94.8925057)
 - [Disc Golf Course - Hole 1 Starts near College Park Dr by the Pavillion](http://www.nwmissouri.edu/crec/PDF/DiscGolfCourse.pdf)
-- [615 W Thompson St](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
-- [704 W Edwards St](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
-- [Sisson Eek Park](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
-- [Franklin Park at 7th and Main](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
-- [915 N Mulberry St](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
-- [709 E 3rd St](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
-- [Beal Park at 7th and Laura](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
-- [1316 E Halsey St](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
+- [615 W Thompson St](https://www.google.com/maps/place/643+W+Thompson+St,+Maryville,+MO+64468/@40.344022,-94.8828367,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac568d569b3b5:0xdfdae9832ae7a27e!8m2!3d40.344022!4d-94.880648)
+- [704 W Edwards St](https://www.google.com/maps?q=700+W+Edwards+St,+Maryville,+MO+64468,+USA&ftid=0x87eac56f137b439f:0x7cdbe72111b276c5)
+- [Sisson Eek Park](https://www.google.com/maps/place/Sisson+Eek+Park,+Maryville,+MO+64468/@40.3379046,-94.8788155,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac5726b5d2fb7:0xfe0bc6c136d5955b!8m2!3d40.337787!4d-94.8765378)
+- [Franklin Park at 7th and Main](https://www.google.com/maps/place/Franklin+Park,+Maryville,+MO+64468/@40.3521859,-94.8744532,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac53f7a395003:0xdd79c883447f1441!8m2!3d40.3522805!4d-94.872323)
+- [915 N Mulberry St](https://www.google.com/maps/place/999+N+Mulberry+St,+Maryville,+MO+64468/@40.3541464,-94.8784917,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac541313f17c5:0xa954da5841ab3980!8m2!3d40.3541464!4d-94.876303)
+- [709 E 3rd St](https://www.google.com/maps/place/701+E+3rd+St,+Maryville,+MO+64468/@40.3477778,-94.8679125,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac5164d1a88b1:0xdc1d1ed1500df5f2!8m2!3d40.3477778!4d-94.8657238)
+- [Beal Park at 7th and Laura](https://www.google.com/maps/place/Beal+Park,+Maryville,+MO+64468/@40.3502097,-94.8598854,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac5220428ac31:0xb94209fcceb65e2d!8m2!3d40.3505006!4d-94.8578975)
+- [1316 E Halsey St](https://www.google.com/maps/place/1374+E+Halsey+St,+Maryville,+MO+64468/@40.3409784,-94.8602782,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac51b6a8ed8e1:0x6b77b9442b37788d!8m2!3d40.3409784!4d-94.8580895)
 
 ## Around Town 
 
