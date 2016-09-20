@@ -11,7 +11,7 @@ title: Exploring Maryville
 
 
 ## Parks & Recreation
-- [1000 N Country Club Rd](https://www.google.com/maps/place/918+N+Country+Club+Rd,+Maryville,+MO+64468/@40.3535708,-94.8946944,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac558bec1727d:0xaff323a6f15560bb!8m2!3d40.3535708!4d-94.8925057)
+- [918 North Country Club Road](https://www.google.com/maps/place/918+N+Country+Club+Rd,+Maryville,+MO+64468/@40.3535708,-94.8946944,17z/data=!3m1!4b1!4m5!3m4!1s0x87eac558bec1727d:0xaff323a6f15560bb!8m2!3d40.3535708!4d-94.8925057)
 - [Disc Golf Course - Hole 1 Starts near College Park Dr by the Pavillion](http://www.nwmissouri.edu/crec/PDF/DiscGolfCourse.pdf)
 - [615 W Thompson St](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
 - [704 W Edwards St](https://www.google.com/maps/d/viewer?mid=1PjcSG3OJdY_YFb3QL0Cae-yfkjg&hl=en_US)
