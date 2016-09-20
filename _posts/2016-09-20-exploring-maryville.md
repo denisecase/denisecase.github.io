@@ -50,7 +50,7 @@ title: Exploring Maryville
 - [Bearcat Stadium](http://www.nwmissouri.edu/archives/university/stadium/)
 - [International Plaza](http://www.nwmissouri.edu/archives/university/plaza/index.htm)
 - [Colden Pond](http://www.nwmissouri.edu/archives/teachers/colden/index.htm)
-- [Admin Building Fountain](http://nodawaymuseumresea.wixsite.com/nchs)
+- [Admin Building and Fountain](https://www.flickr.com/photos/nwmostate/sets/72157624283639770/)
 - [Bell of '48](http://www.nwmissouri.edu/archives/teachers/bell/index.htm)
 
 ## Further Out
