@@ -32,6 +32,8 @@ title: Exploring Maryville
 - [New Nodaway Humane Society](https://nodawayhumanesociety.wordpress.com/)
 - [Mazingo Lake Recreation Park](https://mozingolake.com/recreation/)
 - [Escape a breakout room at Encryption](http://www.encrypttheville.com/news.html)
+- [Maryville Farmers Market - Sat 7:30 a.m. May-Oct](https://www.facebook.com/farmersmarket64468/)
+- [Backyard Vine & Wine](https://www.facebook.com/Backyard-Vine-Wine-LLC-257938937920482/)
 
 ## On Campus 
 
@@ -53,6 +55,8 @@ title: Exploring Maryville
 
 ## Further Out
 
+- [Listen and Retreat at Conception Abbey](http://www.conceptionabbey.org/monastery)
+- [Songs and Soap from the Benedictine Sisters at Clyde Monastery](http://www.benedictinesisters.org/subsectioncontent.php?secid=2&subsecid=6)
 - [Saint Joseph Symphony](http://saintjosephsymphony.org/)
 - [Saint Joseph Museums](http://stjosephmuseum.org/)
 - [Wabash Trace Nature Trail (Iowa)](http://www.traillink.com/trail/wabash-trace-nature-trail.aspx)
