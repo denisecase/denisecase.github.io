@@ -24,17 +24,20 @@ title: Exploring Maryville
 
 ## Around Town 
 
+- [Maryville Daily Forum Event Calendar](http://www.maryvilledailyforum.com/calendar/)
 - [Maryville Public Library](http://www.maryvillepubliclibrary.lib.mo.us/)
 - [Nodaway County Historical Society Museum (1-4 Tu-Fri, 110 North Walnut)](http://nodawaymuseumresea.wixsite.com/nchs)
 - [Explore Maryville Public Art](http://maryvillepublicart.org/currentsculpture/)
 - [Go Geocaching](https://www.geocaching.com/play)
 - [New Nodaway Humane Society](https://nodawayhumanesociety.wordpress.com/)
 - [Mazingo Lake Recreation Park](https://mozingolake.com/recreation/)
+- [Escape a breakout room at Encryption](http://www.encrypttheville.com/news.html)
 
 ## On Campus 
 
 - [Campus Map](https://www.nwmissouri.edu/admissions/pdf/campusmap.pdf)
 - [Campus Events](http://calendar.nwmissouri.edu/)
+- [Campus Sporting Events](http://bearcatsports.com/)
 - [Encore Performing Arts Series](http://www.nwmissouri.edu/getinvolved/encore.htm)
 - [Distinguished Lecture Series](http://www.nwmissouri.edu/getinvolved/lecture.htm)
 - [Missouri Arboretum](http://www.nwmissouri.edu/arboretum/index.htm)
