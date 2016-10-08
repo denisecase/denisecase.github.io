@@ -3,6 +3,12 @@ _gh_pages
 _site
 .ruby-version
 
+# Ignore node files
+node_modules
+access.log
+config.json
+
+
 # Numerous always-ignore extensions
 *.diff
 *.err
