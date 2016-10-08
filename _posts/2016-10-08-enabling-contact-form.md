@@ -60,15 +60,15 @@ In the root folder (A03), create a *package.json*, and an *app.js* for the Node.
  
 You package.json should include the following dependencies (app.js is described later).
  
- ```
+``` javascript
 { 
   "dependencies": {  
         "express": "latest",  
         "morgan": "latest",  
         "body-parser": "latest",  
         "nodemailer": "latest",  
-        "nodemailer-mailgun-transport" : "latest",  
-        "nconf":"latest"  
+        "nodemailer-mailgun-transport": "latest",  
+        "nconf": "latest"  
     }  
 }  
 ```
@@ -76,7 +76,7 @@ You package.json should include the following dependencies (app.js is described 
  
  Add one more file to the root folder, *config.json*.  This will hold confidential connection information that we don't want to check into the cloud repository.  Get your Mailgun domain and api-key noted above and add these two items to your config.json file in the following format.
  
-```
+``` javascript
 {
     "auth": {
         "api_key": "key-123456abcdef",
@@ -88,7 +88,7 @@ You package.json should include the following dependencies (app.js is described 
 In the app.js file, include the dependencies, create an express app and use it to configure the server. 
 Provide access to your static client-side files, include the body-parser to help read the information submitted on the form, and configure an HTTP request logger (Morgan). 
 
-```
+``` javascript
 var path = require("path");
 var express = require("express");
 var fs = require('fs')
@@ -118,7 +118,7 @@ app.use(logger('combined', { stream: accessLogStream }));
 
 Create nice URLs for your pages and serve up your html:
 
-```
+``` javascript
 // http GET default page at /
 app.get("/", function (request, response) {
   response.sendFile(path.join(__dirname + '/assets/index.html'));
@@ -142,7 +142,7 @@ app.get("/contact", function (req, res) {
 
 Handle the POST call when the user submits their contact form.
 
-```
+``` javascript
 // http POST /contact
 app.post("/contact", function (req, res) {
   var name = req.body.inputname;
@@ -183,7 +183,7 @@ app.post("/contact", function (req, res) {
 
 Finally, start up the server and listen on the specified port.
 
-```
+``` javascript
  // Listen for an application request on designated port
 server.listen(port, function () {
   console.log('Web app started and listening on http://localhost:' + port);
