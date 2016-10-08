@@ -61,16 +61,16 @@ In the root folder (A03), create a *package.json*, and an *app.js* for the Node.
 You package.json should include the following dependencies (app.js is described later).
  
  ```
-{
-  "dependencies": {
-        "express": "latest",
-        "morgan": "latest",
-        "body-parser": "latest",
-        "nodemailer": "latest",
-        "nodemailer-mailgun-transport" : "latest",
-        "nconf":"latest"
-    }
-} 
+{ 
+  "dependencies": {  
+        "express": "latest",  
+        "morgan": "latest",  
+        "body-parser": "latest",  
+        "nodemailer": "latest",  
+        "nodemailer-mailgun-transport" : "latest",  
+        "nconf":"latest"  
+    }  
+}  
 ```
  
  
