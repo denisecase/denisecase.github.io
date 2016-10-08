@@ -60,7 +60,7 @@ In the root folder (A03), create a *package.json*, and an *app.js* for the Node.
  
 You package.json should include the following dependencies (app.js is described later).
  
-``` javascript
+``` json
 { 
   "dependencies": {  
         "express": "latest",  
@@ -76,7 +76,7 @@ You package.json should include the following dependencies (app.js is described 
  
  Add one more file to the root folder, *config.json*.  This will hold confidential connection information that we don't want to check into the cloud repository.  Get your Mailgun domain and api-key noted above and add these two items to your config.json file in the following format.
  
-``` javascript
+``` json
 {
     "auth": {
         "api_key": "key-123456abcdef",
