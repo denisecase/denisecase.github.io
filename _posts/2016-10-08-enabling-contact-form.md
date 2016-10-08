@@ -23,7 +23,7 @@ Finish creating and customizing your site.  Your contact page may look something
 
 [![](http://denisecase.github.io/project/44563-A03/assets/img/2016-10-08_1056.png)](http://denisecase.github.io/project/44563-A03/assets/img/2016-10-08_1056.png)
  
- ## Set up an emailing account on MailGun
+## Set up an emailing account on MailGun
  
 1. Go to https://mailgun.com.  
 1. Set up your account by providing your information.
@@ -38,7 +38,7 @@ Finish creating and customizing your site.  Your contact page may look something
  
  [![](http://denisecase.github.io/project/44563-A03/assets/img/2016-10-08_1110.png)](http://denisecase.github.io/project/44563-A03/assets/img/2016-10-08_1110.png)
  
- ## Adding server-side functionality with Node.js
+## Adding server-side functionality with Node.js
  
  We'll create our Node.js server content in the root folder, so create a subfolder in your application called assets and move your website code to this folder. 
  
@@ -46,7 +46,7 @@ Finish creating and customizing your site.  Your contact page may look something
  
  - Add the following to the .gitignore.
  
- ```
+```
 node_modules
 access.log
 config.json
@@ -73,7 +73,7 @@ config.json
  
  Add one more file to the root folder, config.json.  This will hold confidential connection information that we don't want to check into the cloud repository.  Get your Mailgun domain and api-key noted above and add these two items to your config.json file in the following format.
  
- ```
+```
 {
     "auth": {
         "api_key": "key-123456abcdef",
@@ -84,7 +84,8 @@ config.json
 
 In the app.js file, include the dependencies, create an express app and use it to configure the server. 
 Provide access to your static client-side files, include the body-parser to help read the information submitted on the form, and configure an HTTP request logger (Morgan). 
- ```
+
+```
 var path = require("path");
 var express = require("express");
 var fs = require('fs')
@@ -113,6 +114,7 @@ app.use(logger('combined', { stream: accessLogStream }));
 ```
 
 Create nice URLs for your pages and serve up your html:
+
 ```
 // http GET default page at /
 app.get("/", function (request, response) {
@@ -136,6 +138,7 @@ app.get("/contact", function (req, res) {
 ```
 
 Handle the POST call when the user submits their contact form.
+
 ```
 // http POST /contact
 app.post("/contact", function (req, res) {
@@ -199,12 +202,6 @@ Run nodemon to start the server.  (Hit CTRL-C to stop.)
 ```
 
 Point your browser to `http://localhost:8081`. 
-
-
-## The Demo
-
-View the [demo](http://denisecase.github.io/project/44563-A03).
-
 
 ## Import the code
 
