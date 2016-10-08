@@ -40,11 +40,11 @@ Finish creating and customizing your site.  Your contact page may look something
  
 ## Adding server-side functionality with Node.js
  
- We'll create our Node.js server content in the root folder, so create a subfolder in your application called assets and move your website code to this folder. 
+We'll create our Node.js server content in the root folder, so create a subfolder in your application called assets and move your website code to this folder. 
  
- In the root folder (A03), create a .gitignore file and a README.md file (used for all types of projects).
+In the root folder (A03), create a .gitignore file and a README.md file (used for all types of projects).
  
- - Add the following to the .gitignore.
+Add the following to the .gitignore.
  
 ```
 node_modules
@@ -53,9 +53,9 @@ config.json
     
 ```
  
- In the root folder (A03), create a package.json, and an app.js for the Node.js application.
+In the root folder (A03), create a *package.json*, and an *app.js* for the Node.js application.
  
- - package.json should include the following dependencies:
+You package.json should include the following dependencies (app.js is described later).
  
  ```
 {
@@ -71,7 +71,7 @@ config.json
 ```
  
  
- Add one more file to the root folder, config.json.  This will hold confidential connection information that we don't want to check into the cloud repository.  Get your Mailgun domain and api-key noted above and add these two items to your config.json file in the following format.
+ Add one more file to the root folder, *config.json*.  This will hold confidential connection information that we don't want to check into the cloud repository.  Get your Mailgun domain and api-key noted above and add these two items to your config.json file in the following format.
  
 ```
 {
@@ -101,13 +101,13 @@ const port = process.env.PORT || 8081;
 var app = express();
 var server = require('http').createServer(app);
 
-// include our static client-side assets and use the bodyParser
+// include client-side assets and use the bodyParser
 app.use(express.static(__dirname + '/assets'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 // log requests to stdout and also
-// log HTTP requests to a file using the standard Apache combined format
+// log HTTP requests to a file in combined format
 var accessLogStream = fs.createWriteStream(__dirname + '/access.log', { flags: 'a' });
 app.use(logger('dev'));
 app.use(logger('combined', { stream: accessLogStream }));
@@ -177,14 +177,16 @@ app.post("/contact", function (req, res) {
   });
 });
 ```
+
 Finally, start up the server and listen on the specified port.
+
 ```
  // Listen for an application request on designated port
 server.listen(port, function () {
   console.log('Web app started and listening on http://localhost:' + port);
 });
-
 ```
+
 ## Run your website locally
 
 Open a command window in your c:\44563\a03 folder or from VS Code menu, chose View / Integrated Terminal
