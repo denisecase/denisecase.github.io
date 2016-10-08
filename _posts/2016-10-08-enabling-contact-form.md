@@ -18,10 +18,13 @@ Let's assume our application is called A03 (short for assignment 03).
  ```
      <form action="/contact" method="post" id=contactform class="well form-horizontal">
  ```
+
  
 Finish creating and customizing your site.  Your contact page may look something like the following.
 
 [![](http://denisecase.github.io/project/44563-A03/assets/img/2016-10-08_1056.png)](http://denisecase.github.io/project/44563-A03/assets/img/2016-10-08_1056.png)
+
+See a [demo](http://denisecase.github.io/project/44563-A03/assets/index.html) of a sample static site.
  
 ## Set up an emailing account on MailGun
  
@@ -189,13 +192,10 @@ server.listen(port, function () {
 
 ## Run your website locally
 
-Open a command window in your c:\44563\a03 folder or from VS Code menu, chose View / Integrated Terminal
-
-Install nodemon globally with npm install -g nodemon
-
-Install the dependencies listed in package.json with npm install.
-
-Run nodemon to start the server.  (Hit CTRL-C to stop.)
+1. Open a command window in your c:\44563\a03 folder or from VS Code menu, chose View / Integrated Terminal
+2. Install nodemon globally with npm install -g nodemon
+3. Install the dependencies listed in package.json with npm install.
+4. Run nodemon to start the server.  (Hit CTRL-C to stop.)
 
 ```
 > npm install -g nodemon
