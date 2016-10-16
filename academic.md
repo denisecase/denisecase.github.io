@@ -17,13 +17,14 @@ weight : 20
 ## Teaching
 
 *   [Northwest Missouri State University](http://www.nwmissouri.edu/)
-    *   [NW 44-499 Independent Study Computer Science.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016, Spring 2016)
+    *   [NW 44-499 Independent Study Computer Science.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2017, Fall 2016, Spring 2016)
     *   [NW 44-542 Object-Oriented Programming.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2015)
-    *   [NW 44-563 Developing Web Applications and Services.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016)
+    *   [NW 44-563 Developing Web Applications and Services.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2017, Fall 2016)
     *   [NW 44-560 Advanced Topics in Database Systems.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016, Fall 2015)
-    *   [NW 44-618 Project Management in Business and Technology.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Summer 2016)
+    *   [NW 44-564 Design of Data Intensive Systems. **NEW Big Data Course!**](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2017)
+    *   [NW 44-618 Project Management in Business and Technology.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Summer 2017, Summer 2016)
     *   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016)
-    *   [NW 44-691 Graduate Directed Project I.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016)
+    *   [NW 44-692 Graduate Directed Project II.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016)
     *   [NW 44-696 Graduate Directed Project.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016, Fall 2015)
     
 *   [Johnson County Community College](http://www.jccc.edu)
@@ -33,12 +34,13 @@ weight : 20
 
 ## Curriculum Development
 
+*   [NW 44-563 Developing Web Applications and Services.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016)
+    * Updated course to include Node.js, Express, Socket.io, distributed source control, and client-driven projects.
 *   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016)
-    *   Developed new course based on ASP.NET 5, MVC 6, EF 7 (now [ASP.NET Core 1.0](http://www.asp.net/)) incorporating [Git](https://git-scm.com/) and [Angular 2.0](https://angular.io/).
-
+    * Developed new course based on ASP.NET 5, MVC 6, EF 7 (now [ASP.NET Core 1.0](http://www.asp.net/)) incorporating [Git](https://git-scm.com/) and [Angular 2.0](https://angular.io/).
 *   [JCCC CS 236 – Object-Oriented Programming Using C#.](http://catalog.jccc.edu/coursedescriptions/cs/) 
-    *   Drafted course description and requirements for course approval.
-    *   Developed course materials for initial course offering.
+    * Drafted course description and requirements for course approval.
+    * Developed course materials for initial course offering.
 
 ## Publications
 
