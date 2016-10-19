@@ -3,15 +3,17 @@ layout: post
 title: Enabling Contact Forms with Node.js, NodeMailer, and MailGun
 ---
 
-Node.js makes it easy to add a working contact form to your website. 
+<p class="message">
+Node.js makes it easy to add a working contact form to your website.  <br/>
+</p>
 
 ## Starting with a static website
 
 Let's assume our application is called A03 (short for assignment 03). 
 
- Start a responsive website with [Initializr](http://www.initializr.com/). 
+Start a responsive website with [Initializr](http://www.initializr.com/). 
  
- Select the desired options for a new BootStrap site and download the code. This creates a website with the index.html in a root folder, with subfolders css, fonts, img, and js.  
+Select the desired options for a new BootStrap site and download the code. This creates a website with the index.html in a root folder, with subfolders css, fonts, img, and js.  
  
  Create a contact.html page with a contact form, the input forms you would like, and a submit button. 
  
@@ -231,7 +233,9 @@ Right-click on your local a03 folder and click "Open with Code".
 
 If you don't see this option, reinstall Visual Studio code and check the option to add this to your context menu in Windows.
 
+## Video tutorial
 
+For more information, see the video [How to send Email from Node.js Application with MailGun, SendGrid, MailChimp Serivces](https://www.youtube.com/watch?v=9RNQNwHCvSU). 
 
 
 
