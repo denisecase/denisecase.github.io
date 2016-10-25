@@ -24,6 +24,7 @@ title: Exploring Maryville
 
 ## Around Town 
 
+- [Maryville Chamber of Commerce Event Calendar](http://cca.maryvillechamber.com/evtlistingmainsearch.aspx?&class=b)
 - [Maryville Daily Forum Event Calendar](http://www.maryvilledailyforum.com/calendar/)
 - [Maryville Public Library](http://www.maryvillepubliclibrary.lib.mo.us/)
 - [Nodaway County Historical Society Museum (1-4 Tu-Fri, 110 North Walnut)](http://nodawaymuseumresea.wixsite.com/nchs)
