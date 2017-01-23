@@ -13,12 +13,14 @@ View the [assignment](http://denisecase.github.io/project/44563-M03/M03.html).
 [![](http://denisecase.github.io/project/44563-M03/2016-09-11_1253.png)](http://denisecase.github.io/project/44563-M03/2016-09-11_1253.png)
 
 
-## Try it locally
+## Try the assignment locally
 
 Fork or clone this repository. Look for the download icon to the left of the 
 HTTPS dropdown in the top right corner of the BitBucket repository. 
 
 In your local copy of the M03 folder, double-click on M03.html to open it in your browser. 
+
+## Quick look at qUnit
 
 Review the [initial test results](http://denisecase.github.io/project/44563-M03/test/M03Tests.html). 
 
