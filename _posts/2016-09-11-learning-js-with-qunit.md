@@ -20,7 +20,7 @@ HTTPS dropdown in the top right corner of the BitBucket repository.
 
 In your local copy of the M03 folder, double-click on M03.html to open it in your browser. 
 
-## Quick look at qUnit
+## Quick look at QUnit
 
 Review the [initial test results](http://denisecase.github.io/project/44563-M03/test/M03Tests.html). 
 
