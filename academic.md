@@ -19,11 +19,11 @@ weight : 20
 *   [Northwest Missouri State University](http://www.nwmissouri.edu/)
     *   [NW 44-499 Independent Study Computer Science.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2017, Fall 2016, Spring 2016)
     *   [NW 44-542 Object-Oriented Programming.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2015)
-    *   [NW 44-563 Developing Web Applications and Services.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2017, Fall 2016)
+    *   [NW 44-563 Developing Web Applications and Services.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2017, Spring 2017, Fall 2016)
     *   [NW 44-560 Advanced Topics in Database Systems.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016, Fall 2015)
     *   [NW 44-564 Design of Data Intensive Systems. **NEW Big Data Course!**](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2017)
-    *   [NW 44-618 Project Management in Business and Technology.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Summer 2017, Summer 2016)
-    *   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016)
+    *   [NW 44-618 Project Management in Business and Technology.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Summer 2016)
+    *   [NW 44-663 Component-Based Software Engineering: Application Development in C#.NET. **NEW .NET Core!**](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2017, Spring 2016)
     *   [NW 44-692 Graduate Directed Project II.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Fall 2016)
     *   [NW 44-696 Graduate Directed Project.](http://www.nwmissouri.edu/csis/msacs/courses.htm) (Spring 2016, Fall 2015)
     
@@ -49,9 +49,9 @@ weight : 20
 *   [ResearchGate](http://www.researchgate.net/profile/Denise_Case)
 *   [ResearcherID](http://www.researcherid.com/rid/I-1466-2015)
 *   [ORCID](http://orcid.org/0000-0001-6165-7389)
-*   **Denise M. Case**, Chrysostomos Stylios, "Introducing a Fuzzy Cognitive Map for Modeling Power Market Auction Behavior". At 2016 IEEE Symposium Series on Computational Intelligence, Athens, Greece, December 8, 2016.
-*   **Denise M Case**, Nathan Eloe, Jennifer Leopold, "Scaffolding Version Control into the Computer Science Curriculum". At 22nd International Conference on Distributed Multimedia Systems, Salerno, Italy, November 26, 2016. 
-*   Nathan Eloe, **Denise M Case**, Jennifer Leopold, "VeCVL: A Visual Language for Version Control". At 22nd International Conference on Distributed Multimedia Systems, Salerno, Italy, November 25, 2016. 
+*   **Denise M. Case**, Chrysostomos Stylios, ["Introducing a Fuzzy Cognitive Map for Modeling Power Market Auction Behavior"](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7849361). At 2016 IEEE Symposium Series on Computational Intelligence, Athens, Greece, December 8, 2016.
+*   **Denise M Case**, Nathan Eloe, Jennifer Leopold, ["Scaffolding Version Control into the Computer Science Curriculum"](http://ksiresearch.org/seke/dms16paper/dms16paper_36.pdf). At 22nd International Conference on Distributed Multimedia Systems, Salerno, Italy, November 26, 2016. 
+*   Nathan Eloe, **Denise M Case**, Jennifer Leopold, ["VeCVL: A Visual Language for Version Control"](http://ksiresearch.org/seke/dms16paper/dms16paper_27.pdf). At 22nd International Conference on Distributed Multimedia Systems, Salerno, Italy, November 25, 2016. 
 *   **Denise M Case**, Chrysostomos Stylios, "Fuzzy Cognitive Map to Model Project Management Problems". At 35th North American Fuzzy Information Processing Society Annual Conference, El Paso, TX, USA November 3, 2016.
 *   Diana Linville, Michael P. Rogers, Curt Kelly, Carol Spradling, **Denise M. Case**, "Profession-based learning through collaboration and vertical alignment with K12, higher education, and industry: panel discussion". In Journal of Computing Sciences in College, 2016, presented at the Consortium for Computing Sciences in Colleges Conference, May 2016.
 *   **Denise M. Case**, M. N. Faqiry, B. P. Majumder, S. Das, and Scott. A. DeLoach. "Implementation of a two-tier double auction for on-line power purchasing in the simulation of a distributed intelligent cyber-physical system". In Research in Computing Science, 2014, presented at the Mexican International Conference on Artificial Intelligence, 2014. ([bib]({{ site.baseurl }}public/cite/case2014implementation.txt))
