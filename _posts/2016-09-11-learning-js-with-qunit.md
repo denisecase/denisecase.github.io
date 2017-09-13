@@ -15,7 +15,7 @@ View the [assignment](http://denisecase.github.io/project/44563-M03/M03.html).
 
 ## Try the assignment locally
 
-Fork or clone the repository at https://bitbucket.org/professorcase/m03. Look for the "Clone in Sourcetree" icon to the left of the 
+Fork or clone the repository at [https://bitbucket.org/professorcase/m03](https://bitbucket.org/professorcase/m03). Look for the "Clone in Sourcetree" icon to the left of the 
 HTTPS dropdown in the upper left corner of the repository main page. 
 
 In your local copy of the M03 folder, double-click on M03.html to open it in your browser. 
