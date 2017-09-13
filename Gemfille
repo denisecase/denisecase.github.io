@@ -3,4 +3,5 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
   gem "kramdown"
   gem "jekyll-paginate"
+  gem "jekyll-gist"
 end
