@@ -1,5 +1,5 @@
 # RubyGems
-gems: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist]
 
 markdown:         kramdown
 permalink:        pretty
