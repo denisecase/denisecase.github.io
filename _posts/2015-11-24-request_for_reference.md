@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Request for Reference
+categories: [Academia]
 ---
 
 On campus job openings will be posted Monday, November 30, 2015 for three days. 

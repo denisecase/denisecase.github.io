@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Women in Computer Science Conferences
+categories: [Research, Conferences]
 ---
 
 Some key conferences related to women in computer science:

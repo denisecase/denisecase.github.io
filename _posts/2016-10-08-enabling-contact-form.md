@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Enabling Contact Forms with Node.js, NodeMailer, and MailGun
+categories: [Web development]
 ---
 
 <p class="message">

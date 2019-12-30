@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Agent Conferences
+title: Agent Conferences (2016)
+categories: [Research, Conferences]
 ---
 
 Some key conferences related to engineering multiagent systems, distributed artificial intelligence, and complex collaborative systems. 

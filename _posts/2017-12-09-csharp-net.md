@@ -1,0 +1,18 @@
+---
+layout: post
+title: Congratulations Fall 2017 Graduates
+categories: [Profession-based learning, Students]
+---
+
+![]({{ '/' | relative_url }}public/postpics/2017-12-09.jpg)
+
+<div id="ember4322" class="ember-view">
+<div class="reader-article-content" dir="ltr">
+<p>Congratulations on earning your Masters of Applied Computer Science to all developers in our App Development in C# .NET course - we wish you the very best on your continued adventures in web development!</p>
+<p>From left to right:&nbsp;<a href="https://www.linkedin.com/in/hemanth-sai-kishore-nersu-494783a0/" target="_blank" rel="noopener">Hemanth Sai Kishore Nersu</a>,&nbsp;<a href="https://www.linkedin.com/in/venkat-sandeep-chilmakuri-2741a1102/" target="_blank" rel="noopener">Venkat Sandeep Chilmakuri</a>, Mani Vikash Vanaparthi,&nbsp;<a href="https://www.linkedin.com/in/maniearla/" target="_blank" rel="noopener">Manikanteswara Rao Earla</a>,&nbsp;<a href="https://www.linkedin.com/in/revanth-kovuri-870aa1a7/" target="_blank" rel="noopener">Revanth Kovuri</a>,&nbsp;<a href="https://www.linkedin.com/in/bharadwaj-ambati-3b302b127/" target="_blank" rel="noopener">Bharadwaj Ambati</a>,&nbsp;<a href="https://www.linkedin.com/in/saiprakashmekonda/" target="_blank" rel="noopener">Sai Prakash Mekonda</a>,&nbsp;<a href="https://www.linkedin.com/in/amarishwer-edam/" target="_blank" rel="noopener">Amarishwer Edam</a>,&nbsp;<a href="https://www.linkedin.com/in/sainathgulla/" target="_blank" rel="noopener">Sainath Gulla</a>, Assistant Professor: Denise Case, Course Assistant:&nbsp;<a href="https://www.linkedin.com/in/sri-sai-ravali-chinthareddy-0a2907106/" target="_blank" rel="noopener">Sri Sai Ravali Chinthareddy</a>,&nbsp;<a href="https://www.linkedin.com/in/himabindujammula/" target="_blank" rel="noopener">Hima Bindu Jammula</a>,&nbsp;<a href="https://www.linkedin.com/in/saravana-kumar-palaniyappan-484160127/" target="_blank" rel="noopener">Saravana Kumar Palaniyappan</a>,&nbsp;<a href="https://www.linkedin.com/in/mounikachanati/" target="_blank" rel="noopener">Mounika Chanati</a>, Jaswanth Kumar Jonnalagadda, Sashidhar Siddamsetty,&nbsp;<a href="https://www.linkedin.com/in/vikas-bavikadi-0788ba99/" target="_blank" rel="noopener">Vikas Bavikadi</a>,&nbsp;<a href="https://www.linkedin.com/in/sanjay-bedudoori-6b7156127/" target="_blank" rel="noopener">Sanjay Bedudoori</a>,&nbsp;<a href="https://www.linkedin.com/in/sivareddy-mekapothula-76805aa2/" target="_blank" rel="noopener">Siva Reddy Mekapothula</a>,&nbsp;<a href="https://www.linkedin.com/in/naga-rahul-tejas-konkepudi/" target="_blank" rel="noopener">Naga Rahul Tejas Konkepudi</a>. Not pictured:&nbsp;<a href="https://www.linkedin.com/in/bapuji-dirisala-476a7252/" target="_blank" rel="noopener">Bapuji Dirisala</a>, Venkata Sainath Reddy Emani, Vipul Reddy Madadi,<a href="https://www.linkedin.com/in/shankar-rao-vallapurapu-40034111a/" target="_blank" rel="noopener">&nbsp;Shankar Rao Vallapurapu</a>, Matthew Woolery,&nbsp;<a href="https://www.linkedin.com/in/chandansrinivasyelamanchili/" target="_blank" rel="noopener">Chandan Srinivas</a>.</p>
+<p><a href="https://twitter.com/search?q=%23computerscience">#ComputerScience</a> <a href="https://twitter.com/hashtag/dotnet">#.NET</a> #MVC #Dragula #NWGrad #MSACS <a href="https://twitter.com/hashtag/bearcatsconnect">#BearcatsConnect</a></p>
+</div>
+</div>
+<div class="reader-flag-content__wrapper mb4 clear-both" data-ember-action="" data-ember-action-4323="4323">&nbsp;</div>
+
+<a href="https://www.linkedin.com/pulse/congratulations-fall-2017-graduates-denise-case/">https://www.linkedin.com/pulse/congratulations-fall-2017-graduates-denise-case/</a>

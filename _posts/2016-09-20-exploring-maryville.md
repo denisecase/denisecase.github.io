@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Exploring Maryville
+categories: [Fun]
 ---
 
 <p class="message">

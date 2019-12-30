@@ -28,46 +28,30 @@ Personal website content for [http://denisecase.github.io/](http://denisecase.gi
 
 * Download Ruby installer from [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/).
 * Check all boxes and install.
-* Download RubyGems from [https://rubygems.org/pages/download](https://rubygems.org/pages/download).
-* Extract to C:\.
 
-Open Git Bash window in the RubyGems folder:
+Open Git Bash window in the github.io folder:
 
-```     
-$ ruby setup.rb    
-``` 
-
-Open Git Bash window in the github.io folder:    
-
-```     
-$ gem install jekyll      
-$ gem install jekyll-paginate    
-$ gem install jekyll-gist    
-$ gem update jekyll    
-``` 
+```Bash
+gem install jekyll
+gem install bundler
+gem install jekyll-paginate
+gem install jekyll-gist
+gem install wdm
+gem install github-pages
+gem update all
+jekyll -v
+```
 
 ## Test Locally
 
 In _config.yml add:
 
-
 port:   4000
- 
 
-Open Git Bash window in the github.io folder: 
-    
+Open Git Bash window in the github.io folder:
+
+```Bash
+jekyll serve
 ```
-$ jekyll serve 
-``` 
 
 Open browser to: [http://localhost:4000/](http://localhost:4000/).
-
-
-
-
-
-
- 
-
-
-

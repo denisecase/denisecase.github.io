@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sentient Multimedia Systems
+categories: [Research, Conferences]
 ---
 
 The theme of the 2016 Distributed Multimedia Systems conference is Sentient Multimedia Systems.

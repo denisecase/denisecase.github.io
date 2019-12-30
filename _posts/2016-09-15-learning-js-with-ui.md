@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning JavaScript with User Interaction
+categories: [Web development]
 ---
 
 JavaScript makes it easy to build client-side apps while learning programming fundamentals such as control structures, functions, and argument passing. 

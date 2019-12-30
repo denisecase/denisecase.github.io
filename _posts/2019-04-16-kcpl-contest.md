@@ -1,0 +1,31 @@
+---
+layout: post
+title: Congratulations to 2019 KCP&L Spring Student Competition Winners
+categories: [Profession-based learning, Students]
+---
+
+![]({{ '/' | relative_url }}public/postpics/2019-04-16-kcpl-contest.jpg)
+
+<div id="ember4322" class="ember-view">
+<div class="reader-article-content" dir="ltr">
+<div id="ember4322" class="ember-view">
+<div class="reader-article-content" dir="ltr">
+<div id="ember9988" class="ember-view">
+<div class="reader-article-content" dir="ltr">
+<p><a href="https://www.linkedin.com/company/kansas-city-power-&amp;-light/" target="_blank" rel="noopener">KCP&amp;L</a>&nbsp;sponsored a special graduate student competition held April 8, 2019 at<a href="https://www.nwmissouri.edu/" target="_blank" rel="nofollow noopener">&nbsp;Northwest Missouri State University</a>. Sixteen students were selected from the&nbsp;<a href="https://www.nwmissouri.edu/csis/" target="_blank" rel="nofollow noopener">School of Computer Science and Information Systems (CSIS)</a>&nbsp;to compete in the prestigious competition. Teams included students earning their&nbsp;<a href="https://www.nwmissouri.edu/csis/programs/graduate/msis.htm" target="_blank" rel="nofollow noopener">M.S. in Information Systems (MS IS)</a>&nbsp;and students earning their&nbsp;<a href="https://www.nwmissouri.edu/csis/msacs/index.htm" target="_blank" rel="nofollow noopener">M.S. in Applied Computer Science (MS ACS)</a>. Each interdisciplinary team designed an incident reporting application in accordance with a provided system requirements specification. Teams had to sketch the application, develop an entity-relationship diagram, address security issues, and create network and activity diagrams. The event was coordinated by&nbsp;<a href="https://www.linkedin.com/in/jorygalloway/" target="_blank" rel="noopener">Jory Galloway, Web Application Programmer at KCP&amp;L</a>, administered by&nbsp;<a href="https://www.linkedin.com/in/joni-adkins-309ba645/" target="_blank" rel="noopener">Dr. Joni Adkins, Associate Professor and MS IS Program Coordinator</a>, hosted by&nbsp;<a href="https://www.linkedin.com/in/douglas-hawley/" target="_blank" rel="noopener">Dr. Doug Hawley, Associate Professor and Director-Elect of the School of CSIS</a>, and supported by faculty members&nbsp;<a href="https://www.nwmissouri.edu/csis/directory/fellah.htm" target="_blank" rel="nofollow noopener">Aziz Fellah</a>,&nbsp;<a href="https://www.nwmissouri.edu/csis/directory/hoot.htm" target="_blank" rel="nofollow noopener">Charles Hoot</a>,&nbsp;<a href="https://www.linkedin.com/in/lokeswari-pittu-382499179/" target="_blank" rel="noopener">Denise Case</a>,&nbsp;<a href="https://www.nwmissouri.edu/csis/directory/schieber.htm" target="_blank" rel="nofollow noopener">Mathew Schieber</a>,&nbsp;<a href="https://www.nwmissouri.edu/csis/directory/rogers.htm" target="_blank" rel="nofollow noopener">Michael Rogers</a>,&nbsp;<a href="https://www.nwmissouri.edu/csis/directory/eloe.htm" target="_blank" rel="nofollow noopener">Nathan Eloe</a>,&nbsp;<a href="https://www.nwmissouri.edu/csis/directory/vonholzen.htm" target="_blank" rel="nofollow noopener">Roger Von Holzen</a>, and&nbsp;<a href="https://www.linkedin.com/in/greghaddock/" target="_blank" rel="noopener">Dr. Greg Haddock, Associate Provost of Graduate Studies and Professional Studies</a>. Each team presented their designs to a judging panel of KCP&amp;L professionals including Jory Galloway,&nbsp;<a href="https://www.linkedin.com/in/jordan-kilmer-625793155/" target="_blank" rel="noopener">Jordan Kilmer</a>,&nbsp;Tyler Mattoon, Seth Walz,&nbsp;<a href="https://www.linkedin.com/in/whitney-mallett-ab4939149/" target="_blank" rel="noopener">Whitney Mallett</a>, and&nbsp;<a href="https://www.linkedin.com/in/hayden-rainey-77b470b4/" target="_blank" rel="noopener">Hayden Rainey</a>. Contestants were honored with an award dinner sponsored by KCP&amp;L.</p>
+<ul>
+<li><strong>First place and a $400 prize</strong>&nbsp;went to&nbsp;<a href="https://www.linkedin.com/in/sirisha-devineni-86a60251/" target="_blank" rel="noopener">Sirisha Devineni</a>,&nbsp;<a href="https://www.linkedin.com/in/binduveeramachaneni/" target="_blank" rel="noopener">Bindu Veeramachaneni</a>,&nbsp;<a href="https://www.linkedin.com/in/aawaj-joshi-720a5b139/" target="_blank" rel="noopener">Aawaj Joshi</a>, and&nbsp;<a href="https://www.linkedin.com/in/nonsookika/" target="_blank" rel="noopener">Nonso Okika</a>.</li>
+<li><strong>Second place and $300 prize</strong>&nbsp;went to Sai Kiran Peddachappali,&nbsp;<a href="https://www.linkedin.com/in/karthikcrs/" target="_blank" rel="noopener">Raja Srikar Karthik Chinta</a>,&nbsp;<a href="https://www.linkedin.com/in/shivani-busireddy/" target="_blank" rel="noopener">Shivani Busireddy</a>, and&nbsp;<a href="https://www.linkedin.com/in/wendy-eloe-8b99b053/" target="_blank" rel="noopener">Wendy Eloe</a>.</li>
+<li><strong>Third place and $200 prize&nbsp;</strong>went to&nbsp;<a href="https://www.linkedin.com/in/bhaskargmk/" target="_blank" rel="noopener">Bhaskar Gottemukkula</a>, Anuraag Naidu Sanakkayala, Sai Anusha Yerukonda, and&nbsp;<a href="https://www.linkedin.com/in/havya-ravipati-35998316b/" target="_blank" rel="noopener">Havya Ravipati</a>.</li>
+<li><strong>Fourth place and $100 prize</strong>&nbsp;went to&nbsp;<a href="https://www.linkedin.com/in/sonam-gadekari-a0b10b139/" target="_blank" rel="noopener">Sonam Gadekari</a>,&nbsp;<a href="https://www.linkedin.com/in/pallavi-kallamadi/" target="_blank" rel="noopener">Pallavi Kallamadi</a>, Prashanth Kumar Thallada, and&nbsp;<a href="https://www.linkedin.com/in/lokeswari-pittu-382499179/" target="_blank" rel="noopener">Lokeswari Pittu</a>.</li>
+</ul>
+<p>Congratulations to all winners and many thanks to KCP&amp;L for sponsoring the event!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<a href="https://www.linkedin.com/pulse/congratulations-2019-kcpl-spring-student-competition-winners-case/">https://www.linkedin.com/pulse/congratulations-2019-kcpl-spring-student-competition-winners-case/</a>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CS Education Conferences
+categories: [Research, Conferences]
 ---
 
 Some key conferences related to computer science education:

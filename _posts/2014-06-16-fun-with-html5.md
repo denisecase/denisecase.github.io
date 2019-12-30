@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fun with HTML5
+categories: [Web development]
 ---
 
 HTML 5 offers an easy way to begin creating interesting web pages.  All it takes is:  

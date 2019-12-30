@@ -72,35 +72,34 @@ Review of _Cross-Language Information Retrieval Techniques in Very Dissimilar La
 
 ## Designing Complex Systems
 
-[Working ideas to assist with complicated design processes and the implementation of complex MAS.]({{ site.baseurl }}designing_complex_systems/index.html)
+[Working ideas to assist with complicated design processes and the implementation of complex MAS.]({{ '/' | relative_url }}designing_complex_systems/index.html)
 
 Research Proficiency [Presentation](https://docs.google.com/presentation/d/1SNcblAhIPkRNfGeA6sZ9HNqft8jiomblQIf6OROt0oM/pub?start=false&loop=false&delayms=3000)
 
+## Resources
 
-## Resources 
-
-*   [KSU MACR Lab](http://macr.cis.ksu.edu)
-*   [KSU Computer & EE](http://sustain.ece.ksu.edu/)
-*   [Kansas State Biology](http://www.k-state.edu/biology/)
-*   [Kansas State Bioinformatics](http://bioinformatics.k-state.edu/)
-*   [Kansas State Computing and Information Sciences Department](http://cis.ksu.edu)
-*   [Data-Driven Documents](http://d3js.org/)
-*   [NVD3: Re-usable charts for D3](http://nvd3.org/)
-*   [GitHub bird_microbiota repository](https://github.com/ksucase/bird_microbiota)
-*   [Illumina DNA Sequencing](http://www.illumina.com/applications/sequencing/dna_sequencing.ilmn)
-*   [Mothur - open source software for describing and comparing microbial communities](http://www.mothur.org/)
-*   [Earth Microbiome Project](http://www.microbio.me/emp/)
-*   [MSE Project](http://sites.google.com/site/casemse/)
-*   [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/)
+* [KSU MACR Lab](http://macr.cis.ksu.edu)
+* [KSU Computer & EE](http://sustain.ece.ksu.edu/)
+* [Kansas State Biology](http://www.k-state.edu/biology/)
+* [Kansas State Bioinformatics](http://bioinformatics.k-state.edu/)
+* [Kansas State Computing and Information Sciences Department](http://cis.ksu.edu)
+* [Data-Driven Documents](http://d3js.org/)
+* [NVD3: Re-usable charts for D3](http://nvd3.org/)
+* [GitHub bird_microbiota repository](https://github.com/ksucase/bird_microbiota)
+* [Illumina DNA Sequencing](http://www.illumina.com/applications/sequencing/dna_sequencing.ilmn)
+* [Mothur - open source software for describing and comparing microbial communities](http://www.mothur.org/)
+* [Earth Microbiome Project](http://www.microbio.me/emp/)
+* [MSE Project](http://sites.google.com/site/casemse/)
+* [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/)
 
 ## Explore
 
-*   [KSU Libraries](http://www.lib.k-state.edu/)
-*   [ACM Digital Library](http://dl.acm.org/)
-*   [IEEE-Wiley E-Books](http://www.ieee.org/publications_standards/publications/subscriptions/prod/ieee_wiley_ebook.html)
-*   [IEEE Xplore](http://ieeexplore.ieee.org/Xplore/home.jsp)
-*   [Microsoft Research](http://research.microsoft.com/en-us/)
-*   [IBM Research](http://www.research.ibm.com/)
-*   [Google Scholar](https://scholar.google.com/)
+* [KSU Libraries](http://www.lib.k-state.edu/)
+* [ACM Digital Library](http://dl.acm.org/)
+* [IEEE-Wiley E-Books](http://www.ieee.org/publications_standards/publications/subscriptions/prod/ieee_wiley_ebook.html)
+* [IEEE Xplore](http://ieeexplore.ieee.org/Xplore/home.jsp)
+* [Microsoft Research](http://research.microsoft.com/en-us/)
+* [IBM Research](http://www.research.ibm.com/)
+* [Google Scholar](https://scholar.google.com/)
 
 

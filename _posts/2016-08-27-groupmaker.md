@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Groupmaker
+categories: [Web development]
 ---
 
 Simple HTML5 and JavaScript project to create groups of students in a course site or section.  

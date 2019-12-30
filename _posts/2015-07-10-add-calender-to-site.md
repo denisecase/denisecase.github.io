@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Embedding a Calendar in a GitHub Pages Website
+categories: [Web development]
 ---
 
 <p class="message">
    Using GitHub Pages makes it easy to add a custom calendar to your website.
 </p>
 
-This website uses [GitHub Pages](https://pages.github.com/). For information on how to create a similar website, see the earlier article on [creating a GitHub Pages site]({{site.baseurl}}posts/2015-06-26-new-site.md). 
+This website uses [GitHub Pages](https://pages.github.com/). For information on how to create a similar website, see the earlier article on [creating a GitHub Pages site]({{'/' | relative_url}}posts/2015-06-26-new-site.md). 
 The repository with the site content is available at [http://denisecase.github.io/](http://denisecase.github.io/).
 
 Follow the four steps below to add a top-level calendar page to your site.
@@ -23,18 +24,18 @@ Follow the four steps below to add a top-level calendar page to your site.
 
 From Google Calendar, access the calendar settings by clicking on the gear in the upper right. 
 
-![]({{ site.baseurl }}public/cal/settings.png)
+![]({{ '/' | relative_url }}public/cal/settings.png)
 
 Click the Calendars link.
-![]({{ site.baseurl }}public/cal/click.png)
+![]({{ '/' | relative_url }}public/cal/click.png)
 
 Click the link to one of the calendars to be embedded. Under the Embed this Calender option, click the link to Customize the color, size, and other options.
 
-![]({{ site.baseurl }}public/cal/embed.png)
+![]({{ '/' | relative_url }}public/cal/embed.png)
 
 Use the helper to adjust the content to show. Check all the calendars to be included. Update the calendar title. After customizing, select the HTML as indicated and copy to your clipboard (CTRL-C).
 
-![]({{ site.baseurl }}public/cal/helper.png)
+![]({{ '/' | relative_url }}public/cal/helper.png)
 
 ## 3. Add your new calendar page
 
