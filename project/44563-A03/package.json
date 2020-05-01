@@ -1,21 +1,27 @@
 {
-    "name": "a03",
-    "version": "0.0.1",
-    "description": "responsive website",
-    "main": "app.js",
-    "dependencies": {
-        "express": "latest",
-        "morgan": "latest",
-        "body-parser": "latest",
-        "nodemailer": "latest",
-        "nodemailer-mailgun-transport" : "latest",
-        "nconf":"latest"
-    },
-    "author": "Denise Case",
-    "homepage": "https://bitbucket.org/professorcase/a03",
-    "repository": {
-        "type": "git",
-        "url": "https://bitbucket.org/professorcase/a03"
-    },
-    "license": "Apache-2.0"
+  "name": "a03",
+  "version": "0.0.1",
+  "description": "responsive website",
+  "main": "app.js",
+  "dependencies": {
+    "express": "latest",
+    "morgan": "latest",
+    "body-parser": "latest",
+    "nodemailer": "latest",
+    "nodemailer-mailgun-transport": "latest",
+    "nconf": "latest",
+    "snyk": "^1.316.1"
+  },
+  "author": "Denise Case",
+  "homepage": "https://bitbucket.org/professorcase/a03",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/professorcase/a03"
+  },
+  "license": "Apache-2.0",
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
